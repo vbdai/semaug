@@ -1,0 +1,10 @@
+torch==1.7.0
+torchvision==0.8.0
+torchaudio==0.7.0
+#cudatoolkit==10.2
+numpy
+Cython
+mmcv_full-1.2.0-cp36-cp36m-manylinux1_x86_64.whl
+#mmcv-full==1.2.2 -f https://download.openmmlab.com/mmcv/dist/cu110/torch1.7.0/index.html
+mmdet==2.7.0
+instaboostfast
