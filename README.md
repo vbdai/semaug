@@ -1,6 +1,9 @@
 # SemAug: Semantically Meaningful Image Augmentations for Object Detection Through Language Grounding
 This notebook contains the demo and the implementation of the paper 'SemAug: Semantically Meaningful Image Augmentations for Object Detection Through Language Grounding' published at ECCV2022.
-https://arxiv.org/abs/2208.07407
+
+Link to arXiv paper: https://arxiv.org/abs/2208.07407
+
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=4d9fc5b8-7fda-4b95-91c2-27deaa2c8490)
 
 ## Introduction
 
